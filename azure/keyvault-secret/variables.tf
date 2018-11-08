@@ -1,0 +1,12 @@
+
+variable "name" {
+    type    =    "string"
+}
+
+variable "vault_uri" {
+    type    =    "string"
+}
+
+variable "value" {
+    type    =    "string"
+}
